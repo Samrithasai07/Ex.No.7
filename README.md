@@ -243,6 +243,7 @@ response = openai.ChatCompletion.create(
 
 print(response['choices'][0]['message']['content'])
 ```
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7eb44e7e-b550-4d96-b01f-151d2db4eeeb" />
 
 # Result: 
